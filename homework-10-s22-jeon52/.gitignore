@@ -1,0 +1,4 @@
+data/
+.idea/
+.vscode/
+git rm --cached -r data/
